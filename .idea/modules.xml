@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com/com.iml" filepath="$PROJECT_DIR$/com/com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ideawk.iml" filepath="$PROJECT_DIR$/.idea/ideawk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty_client1/netty_client1.iml" filepath="$PROJECT_DIR$/netty_client1/netty_client1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty_client2/netty_client2.iml" filepath="$PROJECT_DIR$/netty_client2/netty_client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty_server/netty_server.iml" filepath="$PROJECT_DIR$/netty_server/netty_server.iml" />
+    </modules>
+  </component>
+</project>
